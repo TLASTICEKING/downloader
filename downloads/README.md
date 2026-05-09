@@ -1,9 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [mhr-cfw-go-windows-amd64](./mhr-cfw-go-windows-amd64)
-- [tele-mirror-win-x64](./tele-mirror-win-x64)
-- [video_240p](./video_240p)
-- [video_360p](./video_360p)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
