@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [mhr-cfw-go-windows-amd64](./mhr-cfw-go-windows-amd64)
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
 
 ---
 
